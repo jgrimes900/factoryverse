@@ -1,0 +1,10 @@
+{
+  "name": "factoryverse",
+  "version": "0.0.1",
+  "title": "Factory-verse",
+  "author": "JGrimesGamed",
+  "dependencies": ["base"],
+  "description": "A mod to transfer items between games.",
+  "factorio_version": "2.0"
+
+}
